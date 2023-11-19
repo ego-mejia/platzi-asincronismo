@@ -1,0 +1,26 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Fernando Mejia <mejia190899@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ego-mejia/platzi-asincronismo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ego-mejia/platzi-asincronismo/issues"
+  },
+  "homepage": "https://github.com/ego-mejia/platzi-asincronismo#readme",
+  "description": ""
+}
